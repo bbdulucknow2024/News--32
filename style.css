@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.logo{
+    height: 20%;
+    width: 30%;
+    margin-left: 5%;
+}
+.navbar {
+    background: linear-gradient(to right, #96b8ea, #6610f2);
+    margin-bottom: 2%;
+}
+.navbar-nav .nav-item {
+    margin: 0 15px; /* Added space between menu items */
+}
+.nav-link {
+    color: white !important; /* Makes text white for contrast */
+    font-weight: bold;
+}
+.nav-link:hover {
+    color: #ffc107 !important; /* Highlight on hover */
+}
+
+.news{
+    margin-bottom: 1%;
+    height: 25%;
+    width: 30%;
+    margin-top: 1%;
+    min-width: 250px;
+}
+
+#container{
+    padding-left: 5%;
+}
+.suggest{
+    height: 20px;
+    width: 100%;
+    background-color: #6610f2;
+}
